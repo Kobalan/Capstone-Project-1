@@ -1,0 +1,6 @@
+pandas
+numpy
+google-api-python-client
+streamlit
+plotly
+mysql-connector-python
